@@ -20,6 +20,7 @@ class PortfolioController extends Controller
             'instagram' => 'https://www.instagram.com/mahesatrianugrahp/', // Ganti dengan link LinkedIn asli
             'whatsapp' => '62895377105018', // Ganti dengan nomor WA asli (tanpa + atau 0 di depan, pakai 62)
             // --------------------------------------
+            'link_cv' => 'https://drive.google.com/file/d/xxxxx/view?usp=sharing',
 
             'skills' => [
                 'Flutter (Mobile)', 
