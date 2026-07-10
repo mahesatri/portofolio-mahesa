@@ -105,7 +105,6 @@ export default function Portfolio() {
             onClick={() => scrollToSection('hero')} 
             className="flex items-center gap-2 text-lg font-bold tracking-tight text-blue-600 dark:text-blue-400"
           >
-            <Sparkles className="h-5 w-5 animate-pulse" />
             <span>mahesa.dev</span>
           </a>
 

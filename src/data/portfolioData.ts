@@ -212,8 +212,7 @@ export const portfolioData: { id: PortfolioContent; en: PortfolioContent } = {
           shortDesc: "Aplikasi kasir (Point of Sale) modern berbasis web untuk mengelola transaksi, stok barang, dan laporan penjualan usaha retail.",
           longDesc: "Kasir Pintar dirancang untuk membantu pemilik toko mengelola operasi harian mereka secara efisien. Web ini mempermudah pencatatan transaksi real-time, manajemen inventaris otomatis, dan pembuatan laporan keuangan bulanan secara visual.",
           tags: ["Laravel", "Dart", "MySQL", "Tailwind CSS"],
-          githubUrl: "https://github.com/mahesa/kasir-pintar",
-          demoUrl: "https://kasirpintar.mahesa.dev",
+          githubUrl: "https://github.com/mahesatri/kasir-pintar.git",
           features: [
             "Manajemen Inventaris & Stok secara real-time dengan notifikasi stok rendah.",
             "Transaksi Kasir Cepat dengan pemindaian barcode (mocked) dan kalkulasi otomatis.",
@@ -229,8 +228,7 @@ export const portfolioData: { id: PortfolioContent; en: PortfolioContent } = {
           shortDesc: "Platform e-commerce penjualan handphone dengan katalog produk interaktif dan sistem manajemen stok gudang (backoffice).",
           longDesc: "Glory Ponsel adalah solusi e-commerce lengkap yang melayani pemesanan online oleh pelanggan dan menyediakan panel admin (backoffice) untuk mengelola inventaris, memproses pesanan, serta memantau status pengiriman barang.",
           tags: ["Laravel", "Bootstrap", "MySQL"],
-          githubUrl: "https://github.com/mahesa/glory-ponsel",
-          demoUrl: "https://gloryponsel.mahesa.dev",
+          githubUrl: "https://github.com/mahesatri/Glory-Ponsel.git",
           features: [
             "Katalog Handphone interaktif dengan filter kategori merek, harga, dan spesifikasi.",
             "Sistem Keranjang Belanja dan checkout terintegrasi.",
@@ -246,8 +244,7 @@ export const portfolioData: { id: PortfolioContent; en: PortfolioContent } = {
           shortDesc: "Sistem Pendukung Keputusan pemilihan handphone terbaik berbasis web menggunakan metode Case-Based Reasoning (CBR) dan algoritma Euclidean Distance.",
           longDesc: "Aplikasi ini memecahkan masalah pemilihan handphone yang sering kali membingungkan pembeli dengan cara mencocokkan kriteria kebutuhan pengguna (budget, RAM, kamera, baterai) dengan kasus-kasus data handphone yang sudah ada sebelumnya menggunakan komputasi kemiripan (similarity).",
           tags: ["PHP", "CBR", "Euclidean Distance", "MySQL"],
-          githubUrl: "https://github.com/mahesa/spk-handphone",
-          demoUrl: "https://spk-hp.mahesa.dev",
+          githubUrl: "https://github.com/mahesatri/SPK-Handphone.git",
           features: [
             "Input Parameter Kebutuhan Pengguna secara fleksibel (harga, memori, ukuran layar, kualitas kamera).",
             "Mesin Pencarian Kemiripan Kasus menggunakan algoritma Euclidean Distance.",
@@ -263,8 +260,7 @@ export const portfolioData: { id: PortfolioContent; en: PortfolioContent } = {
           shortDesc: "Aplikasi mobile manajemen keuangan pribadi untuk mencatat pemasukan, pengeluaran, menetapkan anggaran, dan memvisualisasikan alur keuangan.",
           longDesc: "AturDuit Mobile hadir untuk membantu pengguna mengontrol finansial harian mereka langsung dari smartphone. Aplikasi ini memfasilitasi pencatatan cepat kategori pengeluaran dan memberikan rangkuman visual yang mudah dipahami.",
           tags: ["Flutter", "Dart", "SQLite", "Bloc"],
-          githubUrl: "https://github.com/mahesa/aturduit-mobile",
-          demoUrl: "https://github.com/mahesa/aturduit-mobile/releases",
+          githubUrl: "https://github.com/mahesatri/Atur-Duit-Apk.git",
           features: [
             "Pencatatan Pemasukan & Pengeluaran dengan kategorisasi ikonik (Makanan, Transportasi, Hiburan, dll).",
             "Visualisasi Laporan Keuangan mingguan & bulanan menggunakan Pie Charts dan Bar Charts.",
@@ -280,8 +276,8 @@ export const portfolioData: { id: PortfolioContent; en: PortfolioContent } = {
           shortDesc: "Platform web manajemen keuangan AturDuit dengan optimasi Server-Side Rendering (SSR) untuk performa cepat dan integrasi SEO yang maksimal.",
           longDesc: "Merupakan pendamping web dari versi mobile, AturDuit Web memungkinkan pengguna mengakses data keuangan mereka melalui browser. Versi web ini berfokus pada render halaman yang cepat dan kemudahan navigasi layar lebar.",
           tags: ["Next.js", "React", "TypeScript", "Tailwind CSS", "SSR"],
-          githubUrl: "https://github.com/mahesa/aturduit-web",
-          demoUrl: "https://aturduit.mahesa.dev",
+          githubUrl: "https://github.com/mahesatri/Atur-Duit.git",
+          demoUrl: "https://atur-duit-hazel.vercel.app",
           features: [
             "Sinkronisasi Akun Lintas Platform (akses data mobile dari web secara instan).",
             "Dashboard Keuangan Premium dengan analisis laporan mendalam.",
@@ -343,10 +339,10 @@ export const portfolioData: { id: PortfolioContent; en: PortfolioContent } = {
         email: "mahesatrianugrahp@gmail.com",
         phone: "+62 895-377-105-018",
         whatsappUrl: "https://wa.me/62895377105018?text=Halo%20Mahesa%2C%20saya%20tertarik%20dengan%20portofolio%20Anda.",
-        github: "github.com/mahesa",
-        githubUrl: "https://github.com/mahesa",
+        github: "github.com/mahesatri",
+        githubUrl: "https://github.com/mahesatri",
         location: "Banyuwangi, Jawa Timur, Indonesia",
-        linkedinUrl: "https://linkedin.com/in/mahesa-tri-anugrah-putra" // Tambahan profesional
+        linkedinUrl: "https://www.linkedin.com/in/mahesa-tri-anugrah-putra-03542a292/"
       }
     },
     footer: "© 2026 Mahesa Tri Anugrah Putra. Dibuat dengan penuh dedikasi menggunakan Next.js & Tailwind CSS."
@@ -424,8 +420,7 @@ export const portfolioData: { id: PortfolioContent; en: PortfolioContent } = {
           shortDesc: "A modern web-based Point of Sale (POS) cashier application to manage transactions, inventory, and retail business sales reports.",
           longDesc: "Kasir Pintar is designed to help shop owners manage their daily operations efficiently. This platform facilitates real-time transaction logging, automatic inventory tracking, and visual generation of monthly financial reports.",
           tags: ["Laravel", "Dart", "MySQL", "Tailwind CSS"],
-          githubUrl: "https://github.com/mahesa/kasir-pintar",
-          demoUrl: "https://kasirpintar.mahesa.dev",
+          githubUrl: "https://github.com/mahesatri/kasir-pintar.git",
           features: [
             "Real-time Inventory & Stock management with low stock alerts.",
             "Fast Cashier Transactions with barcode scanning (mocked) and automatic calculation.",
@@ -441,8 +436,7 @@ export const portfolioData: { id: PortfolioContent; en: PortfolioContent } = {
           shortDesc: "An e-commerce platform for selling mobile phones with an interactive product catalog and a backoffice stock management system.",
           longDesc: "Glory Ponsel is a complete e-commerce solution that handles online customer ordering and provides an admin panel (backoffice) for inventory control, order processing, and shipment status tracking.",
           tags: ["Laravel", "Bootstrap", "MySQL"],
-          githubUrl: "https://github.com/mahesa/glory-ponsel",
-          demoUrl: "https://gloryponsel.mahesa.dev",
+          githubUrl: "https://github.com/mahesatri/Glory-Ponsel.git",
           features: [
             "Interactive Phone Catalog with brand, price, and spec filters.",
             "Integrated Shopping Cart and checkout system.",
@@ -458,8 +452,7 @@ export const portfolioData: { id: PortfolioContent; en: PortfolioContent } = {
           shortDesc: "A web-based Decision Support System for choosing the best mobile phone using Case-Based Reasoning (CBR) and Euclidean Distance algorithms.",
           longDesc: "This application solves the purchase dilemma of choosing a smartphone by matching user-defined criteria (budget, RAM, camera, battery) with historical smartphone case data using similarity computations.",
           tags: ["PHP", "CBR", "Euclidean Distance", "MySQL"],
-          githubUrl: "https://github.com/mahesa/spk-handphone",
-          demoUrl: "https://spk-hp.mahesa.dev",
+          githubUrl: "https://github.com/mahesatri/SPK-Handphone.git",
           features: [
             "Flexible User Input criteria (price, memory, screen size, camera quality).",
             "Similarity Matching Engine utilizing the Euclidean Distance formula.",
@@ -475,8 +468,7 @@ export const portfolioData: { id: PortfolioContent; en: PortfolioContent } = {
           shortDesc: "A personal finance mobile app to track income and expenses, set monthly budgets, and visualize financial cashflow.",
           longDesc: "AturDuit Mobile helps users control their daily financial transactions directly from their smartphones. It enables fast transaction logging under categories and provides readable visual reports.",
           tags: ["Flutter", "Dart", "SQLite", "Bloc"],
-          githubUrl: "https://github.com/mahesa/aturduit-mobile",
-          demoUrl: "https://github.com/mahesa/aturduit-mobile/releases",
+          githubUrl: "https://github.com/mahesatri/Atur-Duit-Apk.git",
           features: [
             "Income & Expense tracking with categorical icons (Food, Transport, entertainment, etc).",
             "Weekly & Monthly report visualization using interactive Pie Charts and Bar Charts.",
@@ -492,8 +484,8 @@ export const portfolioData: { id: PortfolioContent; en: PortfolioContent } = {
           shortDesc: "A web companion for the AturDuit financial manager, utilizing Server-Side Rendering (SSR) for fast loads and optimal SEO indexing.",
           longDesc: "As the web companion of the mobile version, AturDuit Web allows users to access their financial data on a browser. It is built with a focus on rendering speed and wide-screen navigation layouts.",
           tags: ["Next.js", "React", "TypeScript", "Tailwind CSS", "SSR"],
-          githubUrl: "https://github.com/mahesa/aturduit-web",
-          demoUrl: "https://aturduit.mahesa.dev",
+          githubUrl: "https://github.com/mahesatri/Atur-Duit.git",
+          demoUrl: "https://atur-duit-hazel.vercel.app",
           features: [
             "Cross-Platform Account Sync (access mobile data on web instantly).",
             "Premium Financial Dashboard with detailed analysis reports.",
@@ -556,10 +548,10 @@ export const portfolioData: { id: PortfolioContent; en: PortfolioContent } = {
         email: "mahesatrianugrahp@gmail.com",
         phone: "+62 895-377-105-018",
         whatsappUrl: "https://wa.me/62895377105018?text=Hello%20Mahesa%2C%20I%20am%20interested%20in%20your%20portfolio.",
-        github: "github.com/mahesa",
-        githubUrl: "https://github.com/mahesa",
+        github: "github.com/mahesatri",
+        githubUrl: "https://github.com/mahesatri",
         location: "Banyuwangi, East Java, Indonesia",
-        linkedinUrl: "https://linkedin.com/in/mahesa-tri-anugrah-putra"
+        linkedinUrl: "https://www.linkedin.com/in/mahesa-tri-anugrah-putra-03542a292/"
       }
     },
     footer: "© 2026 Mahesa Tri Anugrah Putra. Crafted with dedication using Next.js & Tailwind CSS."
